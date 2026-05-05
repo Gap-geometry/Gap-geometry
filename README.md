@@ -37,5 +37,4 @@ Three principles run through the work: every claim is verifiable at stated preci
 
 ---
 
-CC BY 4.0 · independent research
-
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
