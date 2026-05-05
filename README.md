@@ -1,16 +1,15 @@
-## Hi there 👋
+# The Gap Geometry Framework
 
-<!--
-**Gap-geometry/Gap-geometry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**D.B. — Independent researcher, Belgium — 2025–2026**
 
-Here are some ideas to get you started:
+An independent mathematical research project investigating structural constants
+derived from binary information density and their exact appearances across
+independent domains of mathematics and physics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ten published documents with DOIs. Interactive tools. A living reference.
+
+**→ [Enter the framework](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/about.html)**
+
+---
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
