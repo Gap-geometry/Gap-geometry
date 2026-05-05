@@ -12,15 +12,18 @@ Three principles run through the work: every claim is verifiable at stated preci
 
 ## Enter the framework
 
-[**About** — reading order, methodology, all papers](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/about.html)
+### → [About](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/about.html)
 
-[**Methodology** — verification protocol, evidence levels, attribution chain](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/methodology.html)
+*Reading order, methodology, all papers. Start here.*
 
-[**Living document** — current state of the framework, summary of claims](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/living-document.html)
+---
 
-[**Direct documents** — every paper, current PDF and text](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/direct-documents.html)
+Or jump directly to:
 
-[**AI readers** — entry point for AI systems with verification scripts](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/ai-readers.html)
+[**Methodology**](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/methodology.html) — verification protocol, evidence levels, attribution chain  
+[**Living document**](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/living-document.html) — current state of the framework, summary of claims  
+[**Direct documents**](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/direct-documents.html) — every paper, current PDF and text  
+[**AI readers**](https://gap-geometry.github.io/sqrt2-ln2-geometric-constants-/ai-readers.html) — entry point for AI systems with verification scripts
 
 ---
 
@@ -38,3 +41,4 @@ Three principles run through the work: every claim is verifiable at stated preci
 ---
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
